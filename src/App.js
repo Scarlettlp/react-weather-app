@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           <a
             href="https://github.com/Scarlettlp/react-weather-app"
-            target="_blank"
+            rel="noopener noreferrer"
           >
             Open souce coded by
           </a>{" "}
