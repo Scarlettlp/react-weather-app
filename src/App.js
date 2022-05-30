@@ -6,15 +6,15 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Brisbane" />
         <footer>
           <a
             href="https://github.com/Scarlettlp/react-weather-app"
             rel="noopener noreferrer"
           >
-            Open souce coded by
+            Open souce coded
           </a>{" "}
-          Scarlett Lara{" "}
+          by Scarlett Lara{" "}
         </footer>
       </div>
     </div>
