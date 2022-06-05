@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Brisbane" />
+        <Weather defaultCity="Okinawa" />
         <footer>
           <a
             href="https://github.com/Scarlettlp/react-weather-app"
