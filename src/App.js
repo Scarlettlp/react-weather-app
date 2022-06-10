@@ -12,7 +12,7 @@ export default function App() {
             href="https://github.com/Scarlettlp/react-weather-app"
             rel="noopener noreferrer"
           >
-            Open souce coded
+            Open source coded
           </a>{" "}
           by Scarlett Lara{" "}
         </footer>
